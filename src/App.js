@@ -1,5 +1,5 @@
 import './App.css';
-import {profileData} from './Helper';
+import {profileData} from './Bio';
 import {useState} from "react";
 
 const App = () => {
