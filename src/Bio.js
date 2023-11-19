@@ -43,4 +43,4 @@ export const profileData = {
 }
 
 
-aditya pandey
+aditya pandey github account is working properly
